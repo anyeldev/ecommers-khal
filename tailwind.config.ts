@@ -136,7 +136,7 @@ const config: Config = {
       screens: {
         xs: '360px', // min-width - all
         sm: '575px',
-        dm: '768px',
+        md: '768px',
         lg: '1024px',
         xl: '1280px',
         '2xl': '1440px',
@@ -148,7 +148,7 @@ const config: Config = {
         screens: {
           xs: '360px', // max-width - all
           sm: '575px',
-          dm: '768px',
+          md: '768px',
           lg: '1024px',
           xl: '1280px',
           '2xl': '1440px',
@@ -159,7 +159,7 @@ const config: Config = {
           DEFAULT: '0rem',
           xs: '1rem',
           sm: '2rem',
-          dm: '3rem',
+          md: '3rem',
           lg: '4rem',
           xl: '5rem',
           '2xl': '6rem',
