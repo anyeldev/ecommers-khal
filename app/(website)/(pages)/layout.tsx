@@ -1,4 +1,3 @@
-import Footer from '@/components/modules/footer'
 import Header from '@/components/modules/header'
 
 interface Props {
@@ -10,7 +9,6 @@ export default function RootLayout({ children }: Readonly<Props>) {
     <>
       <Header />
       {children}
-      <Footer />
     </>
   )
 }
