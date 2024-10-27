@@ -22,5 +22,5 @@ export default [
       'react/prop-types': 'off'
     }
   },
-  { ignores: ['.next/', 'app/components/ui', 'types/'] }
+  { ignores: ['.next/', 'app/components/ui/', 'types/'] }
 ]

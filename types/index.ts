@@ -6,7 +6,7 @@ export type Categories = {
   _id: string
   name: string
   slug: string
-  submenu?: SubCategory[]
+  submenu: SubCategory[]
   createdAt?: string
   updatedAt?: string
   __v?: number
