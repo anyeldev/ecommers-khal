@@ -115,3 +115,19 @@ export interface ReviewBy {
   imageUrl: string
   fullName?: string
 }
+
+export type Slides = {
+  _id: string
+  name: string
+  slug: string
+  link: string
+  title: string
+  subtitle: string
+  btn: string
+  image: string
+  textColor: string
+  createdAt: string
+  updatedAt: string
+  __v: number
+  description: string
+}
