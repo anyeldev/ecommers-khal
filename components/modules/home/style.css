@@ -1,6 +1,6 @@
 .swiper-pagination-bullet-active {
-  background-color: #fff;
-  width: 40px;
+  background-color: #0f172a;
+  width: 20px;
   border-radius: 10px;
 }
 
@@ -14,8 +14,9 @@
 
 .swiper-button-prev:hover,
 .swiper-button-next:hover {
-  background-color: #000;
+  background-color: #0f172a;
 }
+
 .swiper-button-prev,
 .swiper-button-next {
   color: #fff;
@@ -27,4 +28,17 @@
 .swiper-button-prev::after,
 .swiper-button-next::after {
   font-size: 15px;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.details .swiper-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
