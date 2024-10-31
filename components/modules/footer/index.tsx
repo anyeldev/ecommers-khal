@@ -4,7 +4,7 @@ import { Input } from '@/components/ui/input'
 import { Separator } from '@/components/ui/separator'
 import { Mail, MapPin, PhoneCallIcon, SendHorizontal } from 'lucide-react'
 import { useState } from 'react'
-import { FaFacebookF, FaInstagram, FaTwitter } from 'react-icons/fa6'
+import { FaFacebookF, FaInstagram, FaXTwitter } from 'react-icons/fa6'
 import { toast } from 'sonner'
 import {
   AmericanExpressIcon,
@@ -127,9 +127,9 @@ export default function Footer() {
             © 2024 Khal. Todos los derechos reservados.
           </span>
           <div className="flex gap-4">
-            <FaFacebookF size={24} />
-            <FaInstagram size={24} />
-            <FaTwitter size={24} />
+            <FaFacebookF size={24} title="Facebook" />
+            <FaInstagram size={24} title="Instagram" />
+            <FaXTwitter size={24} title="Twitter" />
           </div>
         </div>
         <span className="flex justify-center text-sm text-slate-300 font-light lg:hidden pb-4">

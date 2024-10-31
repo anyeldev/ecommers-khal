@@ -11,7 +11,7 @@ import './style.css'
 
 export default function Details() {
   return (
-    <section className="py-7 w-full [&>.swiper-wrapper]:hidden">
+    <section className="py-7 w-full">
       <Swiper
         breakpoints={{
           360: { slidesPerView: 1, spaceBetween: 40 },
