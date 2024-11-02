@@ -42,3 +42,14 @@
   align-items: center;
   justify-content: space-evenly;
 }
+
+.bestseller .swiper-button-next:hover,
+.bestseller .swiper-button-prev:hover {
+  background-color: #fff;
+}
+
+.bestseller .swiper-button-prev,
+.bestseller .swiper-button-next {
+  color: #000;
+  top: 40%;
+}

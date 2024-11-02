@@ -38,7 +38,7 @@ export default function Categories() {
       >
         <div
           className="absolute text-center py-2 mx-5 bg-white rounded-lg cursor-pointer shadow-xl
-            bottom-5 hover:bg-slate-900/85 hover:text-white duration-100 ease-linear capitalize w-5/6"
+            bottom-5 hover:bg-primary-600/95 hover:text-white duration-100 ease-linear capitalize w-5/6"
         >
           <h6 className="font-medium">{slide.title}</h6>
         </div>
@@ -53,10 +53,10 @@ export default function Categories() {
           Comprar por Categorías
         </h4>
         <div className="flex gap-3">
-          <Button className="prev-slide h-12">
+          <Button className="prev-slide h-12 hover:bg-primary-600">
             <HiArrowNarrowLeft />
           </Button>
-          <Button className="next-slide h-12">
+          <Button className="next-slide h-12 hover:bg-primary-600">
             <HiArrowNarrowRight />
           </Button>
         </div>

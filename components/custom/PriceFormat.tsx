@@ -11,7 +11,7 @@ export default function CurrencyFormat({
   return (
     <NumericFormat
       className={cn(
-        'tracking-wider text-xl font-normal inline-flex max-w-40 outline-none',
+        'tracking-wider text-xl font-normal inline-flex max-w-40 outline-none bg-transparent',
         className
       )}
       value={value}
