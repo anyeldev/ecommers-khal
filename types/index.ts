@@ -100,20 +100,11 @@ export interface Detail {
 
 export interface Review {
   _id: string
-  rating: number
-  review: string
-  likes: string[]
-  reviewBy: ReviewBy
-  createdAt: string
-  updatedAt: string
-  __v: number
-  images?: any[]
-}
-
-export interface ReviewBy {
-  id: string
-  imageUrl: string
-  fullName?: string
+  avatar: string
+  description: string
+  jobTitle: string
+  name: string
+  stars: number
 }
 
 export type Slides = {

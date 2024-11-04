@@ -46,7 +46,7 @@ export default function Deals() {
           </Button>
         </div>
         <div className="flex justify-end">
-          <Image src={`${deals?.image}`} width="800" height="800" alt="Imagen de oferta" />
+          <Image src={deals?.image || ''} width="800" height="800" alt="Imagen de oferta" />
         </div>
       </div>
     </section>

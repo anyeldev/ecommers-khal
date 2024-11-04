@@ -5,7 +5,6 @@ import Comments from './Comments'
 import Deals from './Deals'
 import Details from './Details'
 import Slider from './Slider'
-import Stories from './Stories'
 
 export default function Home() {
   return (
@@ -16,9 +15,8 @@ export default function Home() {
         <Categories />
         <Bestseller />
         <Deals />
-        <Comments />
-        <Stories />
       </Container>
+      <Comments />
     </main>
   )
 }

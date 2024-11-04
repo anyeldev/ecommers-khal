@@ -1,0 +1,82 @@
+[
+  {
+    "_id": 1,
+    "stars": 4.5,
+    "description": "Este vestido de verano es elegante y cómodo, perfecto para días soleados y ocasiones informales. Con un diseño que favorece a todas las figuras, es ideal para combinar con tus sandalias favoritas y disfrutar de un día al aire libre.",
+    "avatar": "https://unavatar.io/x/emma",
+    "name": "Emma Johnson",
+    "jobTitle": "Sales Associate"
+  },
+  {
+    "_id": 2,
+    "stars": 5.0,
+    "description": "Esta chaqueta de mezclilla clásica es adecuada para cualquier ocasión. Su diseño atemporal y versatilidad la convierten en una prenda imprescindible en tu armario. Perfecta para llevar sobre una camiseta o vestido. Lorem Ipsum",
+    "avatar": "https://unavatar.io/x/liam",
+    "name": "Liam Smith",
+    "jobTitle": "Store Manager"
+  },
+  {
+    "_id": 3,
+    "stars": 4.0,
+    "description": "Estas zapatillas modernas son perfectas para el uso diario. Combinan un diseño atractivo con la máxima comodidad, permitiéndote lucir bien mientras te mueves con libertad. Son ideales para actividades casuales y deportivas.",
+    "avatar": "https://unavatar.io/x/olivia",
+    "name": "Olivia Brown",
+    "jobTitle": "Marketing Specialist"
+  },
+  {
+    "_id": 4,
+    "stars": 4.7,
+    "description": "Este suéter de punto acogedor es perfecto para los días fríos. Hecho de materiales suaves, te mantendrá abrigado sin sacrificar el estilo. Combínalo con jeans o pantalones de tela para un look casual y cómodo.",
+    "avatar": "https://unavatar.io/x/noah",
+    "name": "Noah Davis",
+    "jobTitle": "Customer Service Rep"
+  },
+  {
+    "_id": 5,
+    "stars": 3.8,
+    "description": "Este vestido de noche elegante es ideal para eventos especiales. Con un corte que resalta la figura y detalles sofisticados, te hará brillar en cualquier ocasión. Perfecto para combinar con accesorios y tacones altos.",
+    "avatar": "https://unavatar.io/x/ava",
+    "name": "Ava Wilson",
+    "jobTitle": "Visual Merchandiser"
+  },
+  {
+    "_id": 6,
+    "stars": 4.3,
+    "description": "Estos pantalones cargo duraderos son perfectos para actividades al aire libre. Con múltiples bolsillos y una confección resistente, ofrecen funcionalidad y estilo. Ideales para excursiones, camping o simplemente para un look relajado.",
+    "avatar": "https://unavatar.io/x/elijah",
+    "name": "Elijah Martinez",
+    "jobTitle": "Inventory Manager"
+  },
+  {
+    "_id": 7,
+    "stars": 4.6,
+    "description": "Esta blusa ligera de verano es una adición versátil a tu guardarropa. Su diseño fresco y colores vibrantes son perfectos para los días calurosos, y se puede combinar fácilmente con pantalones cortos o faldas para un look relajado.",
+    "avatar": "https://unavatar.io/x/sophia",
+    "name": "Sophia Garcia",
+    "jobTitle": "Fashion Consultant"
+  },
+  {
+    "_id": 8,
+    "stars": 4.1,
+    "description": "Esta camisa blanca clásica es un esencial en cualquier armario. Su corte atemporal y versatilidad la hacen perfecta para ocasiones formales o informales. Combinada con jeans o pantalones de vestir para un look elegante.",
+    "avatar": "https://unavatar.io/x/james",
+    "name": "James Rodriguez",
+    "jobTitle": "E-commerce Specialist"
+  },
+  {
+    "_id": 9,
+    "stars": 5.0,
+    "description": "Este bolso de cuero premium es perfecto para un look estiloso. Con un diseño elegante y funcional, es ideal para llevar tus esenciales del día a día. Su durabilidad y estilo lo convierten en una inversión valiosa.",
+    "avatar": "https://unavatar.io/x/isabella",
+    "name": "Isabella Lee",
+    "jobTitle": "Social Media Manager"
+  },
+  {
+    "_id": 10,
+    "stars": 4.4,
+    "description": "Este traje de baño a la moda es ideal para días de playa. Con un diseño que resalta tu figura y materiales cómodos, te permitirá disfrutar del sol y el agua con estilo. Perfecto para lucir en la playa o en la piscina.",
+    "avatar": "https://unavatar.io/x/benjamin",
+    "name": "Benjamin Harris",
+    "jobTitle": "Operations Supervisor"
+  }
+]
